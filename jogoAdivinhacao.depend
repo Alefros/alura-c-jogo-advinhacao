@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527381600 source:d:\cursos\alura\curso linguagem c\linguagem c - nível 1\jogo adivinhacao\jogoadivinhacao\main.c
+	<stdio.h>
+	<stdlib.h>
+
