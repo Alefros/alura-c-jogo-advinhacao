@@ -3,7 +3,7 @@
 
 int main()
 {
-    int numeroSecreto = 42;
+    int numeroSecreto = 43;
     int chute = 0;
 
     printf("****************************************** \n");
